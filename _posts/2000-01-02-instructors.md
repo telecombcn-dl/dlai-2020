@@ -6,7 +6,7 @@ style: center
 fa-icon: info
 ---
 
-### Instructors 
+### Lecturers 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
       <div class="authorphoto"><img src="img/instructors/XavierGiro.jpg"></div>
@@ -31,11 +31,12 @@ fa-icon: info
       <div>Javier Ruiz</div>
     </a>
 </div>
-<br>
+
+### Lab Instructors 
 <div class="author">
     <a href="https://www.albertmosellamontoro.com/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/AlbertMosella-160x160.jpg"></div>
-      <div>Albert Mosella-Montoro</div>
+      <div>Albert Mosella</div>
     </a>
 </div>
 <div class="author">
@@ -48,7 +49,7 @@ fa-icon: info
 <br>
 
 
-### Guest Instructor
+### Invited Guest
 
 <div class="author">
       <div class="authorphoto"><img src="img/guests/YannisKalantidis-160x160.jpg"></div>
