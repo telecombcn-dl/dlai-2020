@@ -1,1 +1,1 @@
-![DLAI 2019 Poster](./dlai-2019-poster.jpg)
+![DLAI 2020 Poster](./dlai-2020-poster.jpg)
