@@ -19,7 +19,6 @@ fa-icon: info
       <div>Veronica Vilaplana</div>
     </a>
 </div>
-<br>
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
       <div class="authorphoto"><img src="img/instructors/RamonMorros.jpg"></div>
@@ -32,6 +31,7 @@ fa-icon: info
       <div>Javier Ruiz</div>
     </a>
 </div>
+<br>
 <div class="author">
     <a href="https://www.albertmosellamontoro.com/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/AlbertMosella-160x160.jpg"></div>
